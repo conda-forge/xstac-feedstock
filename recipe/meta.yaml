@@ -1,5 +1,5 @@
 {% set name = "xstac" %}
-{% set version = "1.1.0" %}
+{% set version = "1.2.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/xstac-{{ version }}.tar.gz
-  sha256: 51307e62a01b7c3842bcd73a916f255f14210d7ca3d4c439f6c241ab712b091c
+  sha256: 5c2f5973ca3430ff44090ea724d3d2224f2549d5bb7f03c142b2dcea407fd712
 
 build:
   noarch: python
