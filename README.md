@@ -1,11 +1,11 @@
-About xstac
-===========
+About xstac-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xstac-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/xstac/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xstac-feedstock/blob/main/LICENSE.txt)
 
 Summary: xstac
 
